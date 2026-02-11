@@ -26,10 +26,10 @@ Each connector is a standalone integration that lets CargoBridge communicate wit
 
 ## 📂 Repository Structure
 
-`/examples/     – Sample connectors and templates  
-/erp/          – SAP, Oracle, MS Dynamics  
-/crm/          – Odoo, Twenty CRM  
-/logistics/    – Traccar, OpenRemote` 
+`/examples/     – Sample connectors and templates`  
+`/erp/          – SAP, Oracle, MS Dynamics`  
+`/crm/          – Odoo, Twenty CRM`  
+`/logistics/    – Traccar, OpenRemote` 
 
 ----------
 
